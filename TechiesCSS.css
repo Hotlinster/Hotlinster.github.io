@@ -1,0 +1,114 @@
+body {
+    background-image: url(https://games.mail.ru/hotbox/content_files/game/2021/04/14/a7a67667621d443ebbd22b8f1d5f9aeb.jpg);
+    background-attachment: fixed;
+    background-position: top;
+}
+
+#PersImg {
+    border: inset;
+    float: right;
+
+}
+
+#PersImg:hover {
+
+    size: 200%;
+
+}
+
+header {
+    text-align: center;
+    background: #f8edeb;
+    border-radius: 20px;
+
+
+}
+
+header ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+
+
+
+#icn {
+    width: 100px;
+    /* padding: 20px; */
+
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav span:hover {
+    color: red;
+}
+
+
+nav span {
+    color: #e09f3e;
+    text-transform: uppercase;
+    font-size: large;
+    font-family: Arial, Tahoma;
+
+}
+
+main {
+    padding: 25px;
+    border-radius: 20px;
+    font-family: Arial, Tahoma;
+    background-color: #f8edeb;
+
+}
+
+h1 {
+    color: #000;
+
+
+}
+
+.TabNam {
+    text-align: center;
+    width: 50%;
+}
+
+#txtmn {
+
+    color: #000;
+    text-align: left;
+}
+
+
+#tabSkil {
+    overflow:hidden;
+    width: 100%;
+    border: solid #f8edeb;
+    background: #d0c0c0;
+    border-collapse: collapse;
+    box-sizing: content-box;
+}
+
+tr {
+    border: solid #f8edeb;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 5px;
+    border: solid #f8edeb;
+    border-collapse: collapse;
+}
+
+#tabImg {
+    float: center;
+    width: 100px;
+}
+
+#TabTwo {
+    float: right;
+    background-color: #d0c0c0;
+    border-collapse: collapse;
+
+}
