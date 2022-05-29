@@ -1,0 +1,2 @@
+# hotlinster.github.io
+host
